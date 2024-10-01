@@ -1,0 +1,1 @@
+This is my second bash project i used to evaluate if i mastered the fundamentals, it constinst of a line chart of adults between 15 and 49 and then a pie chart that shows the death of people in different countries due to HIV/AIDS
